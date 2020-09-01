@@ -10,6 +10,8 @@ Silva-Brandao et al (2020) Transcriptome differential co-expression
 reveals distinct molecular response of fall-armyworm strains to DIMBOA.
 DOI: 10.1002/ps.6051 Journal: Pest Management Science.
 
+### File Description
+
 This folder contains the following files:
 
 
