@@ -1,0 +1,33 @@
+valueUP	representativeUP	valueDOWN	representativeDOWN
+8.78	transcription factor	-2.22	RNA pol II transc cofactor
+50.27	str const of ribosome	-6.09	transcription factor
+21.21	catalytic activity	-2.59	transcription factor
+100	cytochrome-c oxidase	-34.17	str const of ribosome
+12.4	G-protein coupled recep	-10.44	catalytic activity
+10.6	str mol activity	-100	cytochrome-c oxidase
+14.37	transporter	-3.59	signal transducer
+19.43	binding	-8.2	Rho guanyl-nuc exch factor
+17.03	electron carrier	-4.3	str mol activity
+100	heme binding	-6.5	transporter
+11.05	enzyme regulator	-11.05	binding
+4.63	nutr reservoir	-26.63	protein binding
+9.21	PEP carboxykinase (GTP)	-4.85	electron carrier
+20.53	FTHFS ligase activity	-2.61	isocitrate lyase
+100	ser endopeptidase	-100	glutathione transferase
+7.75	deaminase activity	-100	ser endopeptidase
+100	trnsf acyl groups	-4.87	transposase
+6.04	pigment binding	-3.47	peptidyl-prolyl isomerase
+8.01	ligase	-12.96	acid-amino acid ligase
+7.61	lyase	-7.87	ligase
+5.37	odorant binding	-2.65	oxygen binding
+59.04	chitin binding	-8.96	chitin binding
+9.02	chromatin binding	-14.77	oxidoreductase
+34.65	oxidoreductase	-4.25	chromatin binding
+52.9	unfolded protein binding	-32.49	actin binding
+11.66	lipid binding	-6.87	carbohydrate binding
+6.61	carbohydrate binding	-6.35	4Fe4S cluster binding
+38.79	protein binding	-95.31	heme binding
+226.93	Fe ion binding	-10.85	hydrolase
+11.73	Fe-S cluster binding	-164.75	Zn ion binding
+28.3	hydrolase	-10.42	transferase
+20.34	transferase		

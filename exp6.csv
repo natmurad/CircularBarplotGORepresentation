@@ -1,0 +1,39 @@
+valueUP	representativeUP	valueDOWN	representativeDOWN
+4.11	transcription factor	-11.31	RNA pol II transc cofac
+18.08	str const of ribosome	-19.12	transc factor DNA binding
+12.49	catalytic activity	-47.87	str const of ribosome
+3.66	str mol activity	-26.53	catalytic activity
+5.05	transporter	-100	ser/thr kinase
+6.3	binding	-11.47	signal transducer
+22.12	protein binding	-42.6	receptor
+6.39	electron carrier	-4.03	signal transducer
+100	oxidoreductase	-12.79	str mol activity
+10.76	nutr reservoir	-16.21	transporter
+36.41	FGAM cyclo-ligase	-23.7	binding
+4.7	fruct-bisphosphate aldolase	-65.59	protein binding
+83.42	ser endopeptidase	-8.86	electron carrier
+75.57	transferase thexosyl groups	-32.77	cyclin-dep prt ser/thr kinase reg
+7	lyase	-18.56	phosphorus-oxygen lyase
+22.96	oxidoreductase	-4.65	transposase
+8.16	actin binding	-17.44	peptidyl-prolyl isomerase
+4.96	lipid binding	-31.12	acid-amino acid ligase
+45.87	heme binding	-100	monooxygenase
+100	Fe ion binding	-100	GTPase
+6.14	Fe-S cluster binding	-17.08	ligase
+15.02	transferase	-3.4	pigment binding
+12.71	hydrolase	-8.57	isomerase
+		-6.19	lyase
+		-4.54	oxygen binding
+		-7.15	odorant binding
+		-3.98	polysaccharide binding
+		-25.97	oxidoreductase
+		-3.98	drug binding
+		-18.18	chromatin binding
+		-100	actin binding
+		-9	lipid binding
+		-11.83	carbohydrate binding
+		-13.06	4Fe4S cluster binding
+		-100	heme binding
+		-21.65	hydrolase
+		-100	Zn ion binding
+		-21.45	transferase

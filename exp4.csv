@@ -1,0 +1,36 @@
+valueUP	representative	valueDOWN	representative
+7.95	transcription factor	-3.73	RNA pol II transc cofact
+8.93	catalytic activity	-6.4	transcription factor
+2.59	signal transducer	-12.42	catalytic activity
+11.22	G-protein coupled recep	-100	ser pep
+12.96	Rho guanylnuc exch factor	-5.23	signal transducer
+3.43	str mol activity	-3.29	receptor
+10.52	transporter	-5.59	Rho guanylnuc exch factor
+6.95	binding	-3.93	str mol activity
+24.01	protein binding	-14.72	str const of cytoskeleton
+4.44	electron carrier	-6.67	transporter
+90.17	oxidoreductase	-12.37	binding
+35.68	str const of cuticle	-29.28	protein binding
+2.73	carboxy-lyase	-3.46	electron carrier
+82.49	ser pep	-17.62	H+ transmemb transp
+66.96	prt ser/thr kinase	-3.08	nutr reservoir
+4.96	ligase	-2.76	PEPCK (GTP)
+3.45	odorant binding	-6.82	PP cis-trans isomerase
+6.47	chitin binding	-19.22	acid-amino acid ligase
+12.45	oxidoreductase	-100	ser/thr kin
+3.82	chromatin binding	-60.5	oxidoreductase
+24.4	actin binding	-8.37	ligase
+5.09	carbohydrate binding	-2.27	pigment binding
+5.77	4Fe4S cluster binding	-4.18	isomerase
+64.22	heme binding	-3.58	lyase
+9.1	hydrolase	-2.75	odorant binding
+100	Zn ion bind	-12.21	oxidoreductase
+8.32	transferase	-4.92	chromatin binding
+		-30.74	actin binding
+		-2.99	lipid binding
+		-7.09	carbohydrate binding
+		-79.52	heme binding
+		-4.13	Fe-S cluster binding
+		-10.7	hydrolase
+		-100	Zn ion bind
+		-9.29	transferase
