@@ -5,7 +5,7 @@
 This code creates a circular barplot representation of Gene
 Ontology data from topGO enrichment analysis. This code was
 adquired from https://www.r-graph-gallery.com/circular-barplot.html
-and adapted for our data. This analysis is available was published on
+and adapted for our data. This analysis is available on
 Silva-Brandao et al (2020) Transcriptome differential co-expression 
 reveals distinct molecular response of fall-armyworm strains to DIMBOA.
 DOI: 10.1002/ps.6051 Journal: Pest Management Science.
