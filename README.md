@@ -1,7 +1,5 @@
 # Circular barplot representing Gene Ontology Enrichment Analysis
 
-#### Author: Natalia Faraj Murad
-
 This code creates a circular barplot representation of Gene
 Ontology data from topGO enrichment analysis. This code was
 adquired from https://www.r-graph-gallery.com/circular-barplot.html
