@@ -13,29 +13,8 @@ DOI: 10.1002/ps.6051 Journal: Pest Management Science.
 This folder contains the following files:
 
 
-circularbarplotGO.R - script for plotting the graphs
+```circularbarplotGO.R``` - script for plotting the graphs
 
-exp1.csv -  a table with 4 columns: valueUP (significance of GO for UPregulated), representativeUP (class of GO), valueDOWN (significance of GO for DOWNregulated), representativeDOWN (class of GO) for experiment comparison 1.
+```exp{num}.csv``` -  a table with 4 columns: valueUP (significance of GO for UPregulated), representativeUP (class of GO), valueDOWN (significance of GO for DOWNregulated), representativeDOWN (class of GO) for experiment comparison {num}.
 
-exp2.csv -  a table with 4 columns: valueUP (significance of GO for UPregulated), representativeUP (class of GO), valueDOWN (significance of GO for DOWNregulated), representativeDOWN (class of GO) for experiment comparison 2.
-
-exp3.csv -  a table with 4 columns: valueUP (significance of GO for UPregulated), representativeUP (class of GO), valueDOWN (significance of GO for DOWNregulated), representativeDOWN (class of GO) for experiment comparison 3.
-
-exp4.csv -  a table with 4 columns: valueUP (significance of GO for UPregulated), representativeUP (class of GO), valueDOWN (significance of GO for DOWNregulated), representativeDOWN (class of GO) for experiment comparison 4.
-
-exp5.csv -  a table with 4 columns: valueUP (significance of GO for UPregulated), representativeUP (class of GO), valueDOWN (significance of GO for DOWNregulated), representativeDOWN (class of GO) for experiment comparison 5.
-
-exp6.csv -  a table with 4 columns: valueUP (significance of GO for UPregulated), representativeUP (class of GO), valueDOWN (significance of GO for DOWNregulated), representativeDOWN (class of GO) for experiment comparison 6.
-
-
-exp1.tiff - circular barplot for experiment comparison 1
-
-exp2.tiff - circular barplot for experiment comparison 2
-
-exp3.tiff - circular barplot for experiment comparison 3
-
-exp4.tiff - circular barplot for experiment comparison 4
-
-exp5.tiff - circular barplot for experiment comparison 5
-
-exp6.tiff - circular barplot for experiment comparison 6
+```exp{num}.tiff``` - circular barplot for experiment comparison {num}
